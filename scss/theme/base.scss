@@ -314,7 +314,7 @@ p {
         
     }
     .location {
-        position: absolute;
+        position: relative;
         right: 0;
         top: 2px;
         color: $text-grey;
@@ -413,7 +413,7 @@ p {
 }
 
 .chart-easy-pie {
-    positon: relative;
+    position: relative;
 }
 
 .chart {

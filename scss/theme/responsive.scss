@@ -122,6 +122,12 @@
     .contact-section .social {
         margin: 0 auto;
     }
+
+    .location{
+        position: relative;
+        margin-left: 0;
+        padding-right: 0;
+    }
     
     
 }
@@ -129,7 +135,11 @@
 /* Small devices (tablets, 768px and up) */
 @media (min-width: 768px) { 
 
-        
+    .location{
+        position: relative;
+        margin-left: 0;
+        padding-right: 0;
+    }
     
 }
 
